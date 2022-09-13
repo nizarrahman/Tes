@@ -1,9 +1,8 @@
 # BOTZ37
 
-Youtube: RIMURUBOTZ
 
-Instagram: RIMURUBOTZ
+Instagram: nizarrrahman.f_
 
-Whatsapp: 082347260729
+Whatsapp: 081386945391
 
 Notes: Tap Star nya donk bang😅
