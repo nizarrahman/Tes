@@ -606,10 +606,10 @@ break
 
 case 'chat': case 'menfess': case 'menfes': 
 if (cekUser("id", sender) == null) return reply("Kamu belum terdaftar di database bot, Silahkan daftar terlebih dahulu, gunakan command #daftar")
-if (!q) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6282347260729&Jokowi&Selamat pagi`)
-if (!q1) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6282347260729&Jokowi&Selamat pagi`)
-if (!q2) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6282347260729&Jokowi&Selamat pagi`)
-if (!q3) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6282347260729&Jokowi&Selamat pagi`)
+if (!q) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6281386945391&Nizar&Selamat pagi`)
+if (!q1) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6281386945391&Nizar&Selamat pagi`)
+if (!q2) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6281386945391&Nizar&Selamat pagi`)
+if (!q3) return reply(`Masukkan nomer&nama&chat\n> *Contoh?* : ${prefix + command} 6281386945391&Nizar&Selamat pagi`)
 nayla.sendMessage(`${q1}@s.whatsapp.net`, {image:{url:"https://cdn-icons-png.flaticon.com/512/4712/4712029.png"}, caption:`Halo Ada pesan nih:3\n> *Dari* : ${q2}\n> *Jam* : ${jam}\n> *Pesan* : ${q3}`})
 reply("Sukses mengirim pesan pribadi")
 break
@@ -815,7 +815,7 @@ if (!isBotGroupAdmins) return reply("Antilink On, Bot bukan admin, perintah di b
 reply("[ *ANTILINK* ]")
 await nayla.groupParticipantsUpdate(from, [sender], "remove")}
 }
-if (budy == prefix + "sc"){reply("https://semawur.com/6df19ZzNz")} // JANGAN DI UBAH:(
+if (budy == prefix + "sc"){reply("https://instagram.com/nizarrrahman.f_")} // JANGAN DI UBAH:(
 }} catch (err) {
 console.log(color('[ERROR]', 'red'), err)
 }}
